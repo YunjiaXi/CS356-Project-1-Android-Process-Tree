@@ -1,6 +1,5 @@
-# CS307-Project-1-Android-Process-Tree
-SJTU CS307 Operating Systems Project 1:  Android Process Tree
 # CS307 Operating Systems Project 1:  Android Process Tree
+Detailed description and guide about the problem is in Prj1Guide.pdf 
 
 
 
