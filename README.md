@@ -1,4 +1,11 @@
-# CS307 Operating Systems Project 1:  Android Process Tree
+# CS356 Operating Systems Project 1:  Android Process Tree
+Objectives:   
+* Install and use Android Virtual Devices. 
+* Install NDK, cross compile the program and run it on AVD. 
+* Effectively use Linux system calls for process control and management. 
+* Familiarize task_struct  
+* Concurrent execution of processes. 
+
 Detailed description and guide about the problem is in Prj1Guide.pdf 
 
 
