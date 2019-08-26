@@ -463,7 +463,7 @@ No result can be shown in this part
 
 Here just shows a screenshot with part of result. The whole result can be found in the *textscript.txt* of problem two.
 
-![](result2.PNG)
+![result1](images/result2.PNG)
 
 
 
@@ -471,7 +471,7 @@ Here just shows a screenshot with part of result. The whole result can be found 
 
 Here just shows a screenshot with part of result. The whole result can be found in the *textscript.txt* of problem three.
 
-![](result3.PNG)
+![result2](images/result3.PNG)
 
 
 
@@ -479,19 +479,19 @@ Here just shows a screenshot with part of result. The whole result can be found 
 
 Here these screenshots show all the steps of this execution. The final result can also be found in the *textscript.txt* of problem four.
 
-![](1.PNG)
+![1](images/1.PNG)
 
-![2](2.PNG)
+![2](images/2.PNG)
 
-![3](3.PNG)
+![3](images/3.PNG)
 
-![4](4.PNG)
+![4](images/4.PNG)
 
-![5](5.PNG)
+![5](images/5.PNG)
 
-![6](6.PNG)
+![6](images/6.PNG)
 
-![7](7.PNG)
+![7](images/7.PNG)
 
 
 
