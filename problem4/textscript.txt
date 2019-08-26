@@ -1,0 +1,42 @@
+Server:
+
+root@generic:/data # ./serverARM
+Server initiating...
+Receiving message: Tommorrow is another day. 
+Receiving message: What's going on? 
+Server thread closing...
+Receiving message: Nice day 
+Receiving message: fine,and you? 
+
+
+Cilent1:
+
+root@generic:/data # ./cilentARM                                               
+PLease enter the message:
+Tommorrow is another day.
+From server: Wrppruurz lv dqrwkhu gdb.
+Nice day
+From server: Qlfh gdb
+
+
+Cilent2:
+
+root@generic:/data # ./cilentARM                                               
+PLease enter the message:
+What's going on?
+From server: Zkdw'v jrlqj rq?
+:q
+Cilent closing...root@generic:/data # 
+
+
+Cilent3:
+
+root@generic:/data # ./cilentARM                                               
+PLease enter the message:
+How are you?
+From server: Please waiting
+How are you?
+From server: Krz duh brx?
+fine,and you?
+From server: ilqh,dqg brx?
+
