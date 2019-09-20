@@ -6,7 +6,7 @@ Objectives:  
 * Familiarize task_struct  
 * Concurrent execution of processes. 
 
-Detailed description and guide about the problem is in Prj1Guide.pdf 
+Detailed description and guide about the problem is in [Guide](Prj1Guide.pdf) 
 
 
 
